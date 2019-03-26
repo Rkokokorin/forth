@@ -299,4 +299,4 @@ include managed-string.frt
 include fib.frt
 
 include native.frt
-
+include Part1Kokorin.frt
