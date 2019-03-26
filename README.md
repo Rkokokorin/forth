@@ -1,5 +1,6 @@
 # Forthress
-
+## Info
+First part of coursework of Kokorin Roman P3210 is located in Part1Kokorin.frt.It is included in stdlib.frt for comfort use
 ## Summary
 
 Forthress is a Forth dialect made for fun and educational purposes.
